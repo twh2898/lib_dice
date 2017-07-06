@@ -1,0 +1,13 @@
+[package]
+authors = ["Thomas Harrison <twh2898@vt.edu>"]
+name = "lib_dice"
+version = "0.1.0"
+description = "A library for parsing dice rolls"
+documentation = "https://docs.rs/lib_dice/"
+repository = "https://github.com/twh2898/lib_dice"
+keywords = ["dice", "roll", "parse", "nom"]
+licence = "MIT"
+
+[dependencies]
+nom = "3.1.0"
+rand = "0.3.15"
