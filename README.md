@@ -7,7 +7,7 @@
 Cargo.toml
 ```toml
 [dependencies]
-lib_dice = { git = "https://github.com/twh2898/lib_dice" }
+lib_dice = "0.1.0"
 ```
 
 src/main.rs
